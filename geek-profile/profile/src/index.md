@@ -5,7 +5,7 @@ github: https://github.com/HeminWon/HeminWon.github.io.git
 
 ## Profile
 #### Minghai Wang
->Software Dev Engineer working on iOS Application Projects.
+> Software Dev Engineer working on iOS Application Projects.
 
 #### Skills
 - Objective-C / C
@@ -31,4 +31,4 @@ github: https://github.com/HeminWon/HeminWon.github.io.git
 - [GitHub: HeminWon](https://github.com/HeminWon)
 - [wiki](https://github.com/HeminWon/Journey/wiki)
 - [resume](https://heminwon.github.io/resume/)
-- [E-mail: heminwon@icloud.com](mailto:heminwon@icloud.com)
+- [E-mail: heminwmh@gmail.com](mailto:heminwmh@gmail.com)

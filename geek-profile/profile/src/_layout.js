@@ -13,7 +13,7 @@ module.exports = function ({ title, content, frontMatter }) {
         </div>
         <!-- Like this page? <a href="${frontMatter.github}">Fork me to create your own!</a> -->
         <footer>
-           Copyright © 2015 - 2017 HeminWon All Rights Reserved.
+           Copyright © 2015 - 2018 HeminWon All Rights Reserved.
         </footer>
       </body>
     </html>
