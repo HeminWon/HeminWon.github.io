@@ -23,15 +23,13 @@ github: https://github.com/HeminWon/HeminWon.github.io.git
 - [XHLaunchAd](https://github.com/CoderZhuXH/XHLaunchAd):The screen opening advertising solutions
 
 #### Organizations
-- 2016.04 - 2018.03  [Zhejiang Hexin Flush Network Services Ltd](https://itunes.apple.com/cn/app/%E5%90%8C%E8%8A%B1%E9%A1%BA-%E7%82%92%E8%82%A1-%E8%82%A1%E7%A5%A8/id303191318?mt=8)
 - 2018.03 - present  [Beijing Xiaoju Technology Co, Ltd](https://www.didiglobal.com/)
+- 2016.04 - 2018.03  [Zhejiang Hexin Flush Network Services Ltd](https://itunes.apple.com/cn/app/%E5%90%8C%E8%8A%B1%E9%A1%BA-%E7%82%92%E8%82%A1-%E8%82%A1%E7%A5%A8/id303191318?mt=8)
 
 #### Education
 - 2012.9 - 2016.6 Electronic and Information Engineering Graduate School of [Hangzhou Dianzi University](http://www.hdu.edu.cn/) B.E.
 
 ## Contacts
-- [Blog: HeMin's Notes](https://heminwon.github.io/blog/)
+- [Blog: HeMin's Blog](https://heminwon.github.io/blog/)
 - [GitHub: HeminWon](https://github.com/HeminWon)
-- [wiki](https://github.com/HeminWon/Journey/wiki)
-- [resume](https://heminwon.github.io/resume/)
 - [E-mail: heminwmh@gmail.com](mailto:heminwmh@gmail.com)
